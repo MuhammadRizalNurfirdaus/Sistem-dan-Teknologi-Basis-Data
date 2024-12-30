@@ -1,0 +1,4 @@
+CREATE TABLE Pembeli (
+    PembeliID INT PRIMARY KEY IDENTITY,
+    Nama NVARCHAR(100)
+);

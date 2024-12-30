@@ -1,0 +1,5 @@
+CREATE TABLE Mata_Kuliah (
+    Kode_MK VARCHAR(20) PRIMARY KEY,
+    Nama_MK VARCHAR(100),
+    SKS INT
+);

@@ -1,0 +1,1 @@
+SELECT * FROM TBJabatan WHERE ID_Jabatan = '001';

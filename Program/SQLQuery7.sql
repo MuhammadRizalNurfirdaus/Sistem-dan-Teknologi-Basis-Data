@@ -1,0 +1,6 @@
+INSERT INTO TBGaji (No_Slip, Gaji_Bersih, NIP)
+VALUES ('006', 7000000, 'NIP006');
+
+INSERT INTO TBGaji (No_Slip, Gaji_Bersih, NIP)
+VALUES ('007', 7500000, 'NIP007');
+

@@ -1,0 +1,1 @@
+SELECT * FROM TBGaji WHERE No_Slip IN ('006', '007');
